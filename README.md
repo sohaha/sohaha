@@ -9,9 +9,9 @@ Full-stack Developer
 * ✉️  You can contact me at [seekwe@gmail.com](mailto:seekwe@gmail.com)
 * 🧠  I'm learning zig
 
-![sohaha GitHub stats](https://stat.v.73zls.com/api?&theme=transparent&username=sohaha&include_all_commits=true&layout=compact&hide_border=true)
+![GitHub stats](https://stat.v.73zls.com/api?&theme=transparent&username=sohaha&include_all_commits=true&layout=compact&hide_border=true)
 
-![sohaha Top Langs](https://stat.v.73zls.com/api/top-langs?&theme=transparent&size_weight=0.1&count_weight=0.2&count_private=true&hide=TSQL,Smarty,Vim%20Snippet,html,Less,css,PowerShell,Dockerfile,Makefile,Batchfile,Shell&langs_count=8&layout=compact&show_icons=true&username=sohaha&card_width=450&hide_border=true)
+![Top Langs](https://stat.v.73zls.com/api/top-langs?&theme=transparent&size_weight=0.0001&count_private=true&hide=TSQL,Smarty,Vim%20Snippet,Vim%20Script,html,Less,css,EJS,PowerShell,Dockerfile,Makefile,Batchfile,Shell&langs_count=8&layout=compact&show_icons=true&username=sohaha&card_width=450&hide_border=true)
 
 
 ### Socials
